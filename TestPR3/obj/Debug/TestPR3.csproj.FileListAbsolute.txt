@@ -1,0 +1,7 @@
+C:\Users\basme\source\repos\TestPR3\TestPR3\bin\Debug\TestPR3.exe.config
+C:\Users\basme\source\repos\TestPR3\TestPR3\bin\Debug\TestPR3.exe
+C:\Users\basme\source\repos\TestPR3\TestPR3\bin\Debug\TestPR3.pdb
+C:\Users\basme\source\repos\TestPR3\TestPR3\obj\Debug\TestPR3.csproj.AssemblyReference.cache
+C:\Users\basme\source\repos\TestPR3\TestPR3\obj\Debug\TestPR3.csproj.CoreCompileInputs.cache
+C:\Users\basme\source\repos\TestPR3\TestPR3\obj\Debug\TestPR3.exe
+C:\Users\basme\source\repos\TestPR3\TestPR3\obj\Debug\TestPR3.pdb
